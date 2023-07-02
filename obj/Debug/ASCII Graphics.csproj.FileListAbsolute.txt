@@ -1,0 +1,16 @@
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\bin\Debug\ASCII Graphics.exe.config
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\bin\Debug\ASCII Graphics.exe
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\bin\Debug\ASCII Graphics.pdb
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\obj\Debug\ASCII Graphics.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\obj\Debug\ASCII Graphics.csproj.SuggestedBindingRedirects.cache
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\obj\Debug\ASCII Graphics.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\obj\Debug\ASCII Graphics.exe
+D:\Projects Visual Studio\C#\Work\ASCII Graphics\obj\Debug\ASCII Graphics.pdb
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\bin\Debug\ASCII Graphics.exe.config
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\bin\Debug\ASCII Graphics.exe
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\bin\Debug\ASCII Graphics.pdb
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\obj\Debug\ASCII Graphics.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\obj\Debug\ASCII Graphics.csproj.SuggestedBindingRedirects.cache
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\obj\Debug\ASCII Graphics.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\obj\Debug\ASCII Graphics.exe
+D:\Projects Visual Studio\C#\Console Projects\ASCII Graphics\obj\Debug\ASCII Graphics.pdb
